@@ -1,3 +1,4 @@
-# ABIM Study Tracker
+# ABIM Study
 
-Single-file study tracker. Data stays in your browser (localStorage).
+Built copy of a private ABIM board-prep app, served at https://davideaurum.github.io/abim-tracker/.
+Everything you enter stays in your browser (localStorage). Back it up from Settings › Import & export.
